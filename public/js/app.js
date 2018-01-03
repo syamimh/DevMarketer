@@ -1055,6 +1055,13 @@ Vue.use(__WEBPACK_IMPORTED_MODULE_0_buefy___default.a);
 
 // Vue.component('example', require('./components/Example.vue'));
 
+var app = new Vue({
+  el: '#app',
+  data: {}
+});
+
+$(document).ready(function () {});
+
 /***/ }),
 /* 12 */
 /***/ (function(module, exports, __webpack_require__) {
